@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "auladcanto-mcp"
-version = "0.0.1"
+version = "0.1.0"
 description = "Local MCP server for music tutoring (voice + guitar) — analyse audio on your machine and let Claude Code coach you in real time."
 readme = "README.md"
 license = { file = "LICENSE" }
